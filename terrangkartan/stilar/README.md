@@ -10,3 +10,4 @@ En översyn har dock gjorts för att det skall bli enklare att läsa in stilarna
 Stilfiler för terrängkartan är skapade utifrån WMTS tjänstens utseende i skala 1:30'236, vilket är så nära en "naturlig" skala det går att komma för genererade tiles. 
 
 Symboler är "låsta" till denna skala och exempelvis typsnitt blir mindre när man zoomar ut, och större när man zoomar in.
+
