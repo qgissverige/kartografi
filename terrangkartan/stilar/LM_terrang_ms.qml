@@ -1,4 +1,4 @@
-<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'Latin1'>
 <qgis version="2.14.3-Essen" minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
   <edittypes>
     <edittype widgetv2type="TextEdit" name="KKOD">
@@ -11,8 +11,8 @@
   <renderer-v2 attr="KATEGORI" forceraster="0" symbollevels="0" type="categorizedSymbol" enableorderby="0">
     <categories>
       <category render="true" symbol="0" value="Sankmark, normal" label="Sankmark, normal"/>
-      <category render="true" symbol="1" value="Sankmark, svrframkomlig" label="Sankmark, svrframkomlig"/>
-      <category render="true" symbol="2" value="Sankmark, torvtkt" label="Sankmark, torvtkt"/>
+      <category render="true" symbol="1" value="Sankmark, svårframkomlig" label="Sankmark, svårframkomlig"/>
+      <category render="true" symbol="2" value="Sankmark, torvtäkt" label="Sankmark, torvtäkt"/>
       <category render="true" symbol="3" value="" label=""/>
     </categories>
     <symbols>
