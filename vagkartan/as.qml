@@ -13,7 +13,7 @@
           <prop v="0,0,0,255" k="color"/>
           <prop v="0" k="fixedAspectRatio"/>
           <prop v="1" k="horizontal_anchor_point"/>
-          <prop v="riksrose.svg" k="name"/>
+          <prop v="base64:PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgeG1sbnM6ZGM9Imh0dHA6Ly9wdXJsLm9yZy9kYy9lbGVtZW50cy8xLjEvIgogICB4bWxuczpjYz0iaHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbnMjIgogICB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIKICAgdmlld0JveD0iMCAwIDcuODAwMDAwMiA3LjgwMDAwMDIiCiAgIGhlaWdodD0iNy44MDAwMDAyIgogICB3aWR0aD0iNy44MDAwMDAyIgogICB4bWw6c3BhY2U9InByZXNlcnZlIgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmcyIj48bWV0YWRhdGEKICAgICBpZD0ibWV0YWRhdGE4Ij48cmRmOlJERj48Y2M6V29yawogICAgICAgICByZGY6YWJvdXQ9IiI+PGRjOmZvcm1hdD5pbWFnZS9zdmcreG1sPC9kYzpmb3JtYXQ+PGRjOnR5cGUKICAgICAgICAgICByZGY6cmVzb3VyY2U9Imh0dHA6Ly9wdXJsLm9yZy9kYy9kY21pdHlwZS9TdGlsbEltYWdlIiAvPjwvY2M6V29yaz48L3JkZjpSREY+PC9tZXRhZGF0YT48ZGVmcwogICAgIGlkPSJkZWZzNiIgLz48ZwogICAgIHRyYW5zZm9ybT0ibWF0cml4KDEuMjUsMCwwLC0xLjI1LDAsNy44KSIKICAgICBpZD0iZzEwIj48ZwogICAgICAgdHJhbnNmb3JtPSJzY2FsZSgwLjEsMC4xKSIKICAgICAgIGlkPSJnMTIiPjxwYXRoCiAgICAgICAgIGlkPSJwYXRoMTQiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiCiAgICAgICAgIGQ9Im0gMzEuMTQ0NSw2Mi4zNjMzIDAuMDg2LDAgMy4zMzIsLTAuMTc5NyAzLjMyNDIsLTAuNTQzIDMuMjQ2MSwtMC44OTg0IDMuMDY2NCwtMS4xNzE5IDIuOTY4OCwtMS42MTcyIDIuNzczNCwtMS44MDA4IDIuNjE3MiwtMi4xNjQgMi4yNDYxLC0yLjQyNTggMi4wNzAzLC0yLjY5OTIgMS43OTY5LC0yLjc5MyAxLjM2NzIsLTMuMDU4NiAxLjE3MTgsLTMuMTQ4NCAwLjcwMzIsLTMuMjQyMiAwLjM3MTEsLTMuMzI4MSAwLjA3ODEsLTIuMDc0MiAwLC0wLjA4NiAtMC4xNzU4LC0zLjMzMiAtMC41MjczLC0zLjMyODEgLTAuOTE4LC0zLjI0MjIgLTEuMTUyNCwtMy4wNjY0IC0xLjYyMSwtMi45Njg4IC0xLjgxNjUsLTIuNzkzIEwgNTQuMDAzOSw5LjgwNDY5IDUxLjU2MjUsNy41NTg1OSA0OC44NjcyLDUuNDg4MjggNDYuMDc0MiwzLjY3MTg4IDQzLjAyNzMsMi4zMjQyMiAzOS44NjcyLDEuMTUyMzQgMzYuNjM2NywwLjQ0OTIxOSAzMy4zMDA4LDAuMDc4MTI1IDMxLjIzMDUsMCAzMS4xNDQ1LDAgMjcuODEyNSwwLjE3NTc4MSAyNC40ODA1LDAuNzAzMTI1IDIxLjIzODMsMS42MDE1NiAxOC4xODM2LDIuNzczNDQgMTUuMjEwOSw0LjM5NDUzIDEyLjQyMTksNi4yMTA5NCA5LjgwODU5LDguMzU5MzggNy41NjI1LDEwLjgwMDggNS40OTIxOSwxMy40OTYxIDMuNjkxNDEsMTYuMjg5MSAyLjMzOTg0LDE5LjMzNTkgMS4xNzE4OCwyMi40ODgzIDAuNDQ5MjE5LDI1LjczMDUgMC4wOTM3NSwyOS4wNjI1IDAsMzEuMTMyOCBsIDAsMC4wODYgMC4xNzk2ODgsMy4zMzIgMC41NDI5NjgsMy4zMzIgMC44OTg0MzQsMy4yNDIyIDEuMTcxODgsMy4wNTQ3IDEuNjE3MTksMi45NzI2IDEuODAwNzgsMi43ODkxIDIuMTYwMTUsMi42MTMzIDIuNDI5NzEsMi4yNDYxIDIuNjk5MiwyLjA3MDMgMi43ODkxLDEuODAwOCAzLjA2MjUsMS4zNDc2IDMuMTQ4NCwxLjE3MTkgMy4yNDIyLDAuNzE4OCAzLjMyODEsMC4zNTkzIDIuMDc0MiwwLjA5MzgiIC8+PHBhdGgKICAgICAgICAgaWQ9InBhdGgxNiIKICAgICAgICAgc3R5bGU9ImZpbGw6I2ZmZmZmZjtmaWxsLW9wYWNpdHk6MTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6bm9uZSIKICAgICAgICAgZD0ibSAzMS4xNDQ1LDUxLjAxOTUgMC4wODYsMCAyLjY5OTIsLTAuMTc5NyAyLjYwOTQsLTAuNTM5IDIuNTE5NSwtMC45MDI0IDIuMzQ3NywtMS4xNjc5IDIuMTQ4NCwtMS41Mjc0IDEuOTkyMiwtMS44MDA4IDEuNjk5MiwtMi4wNzAzIDEuNDQ1MywtMi4yNSAxLjA3NDIsLTIuNDMzNiAwLjgyMDMsLTIuNTE5NSAwLjM1MTYsLTIuNjk5MiAwLjA5NzcsLTEuNzEwOSAwLC0wLjA4NiAtMC4xNzU4LC0yLjY5OTIgLTAuNTQ2OSwtMi42MTMzIC0wLjg5ODQsLTIuNTE5NSAtMS4xNzE5LC0yLjM0MzggLTEuNTIzNCwtMi4xNDg0IC0xLjgxNjUsLTEuOTkyMiAtMi4wNzAzLC0xLjY5OTIgLTIuMjQ2MSwtMS40NDUzIC0yLjQyNTcsLTEuMDc0MiAtMi41MTk2LC0wLjgyMDQgLTIuNzAzMSwtMC4zNTE1IC0xLjcwNywtMC4wOTc3IC0wLjA4NiwwIC0yLjcwMzEsMC4xNzU4IC0yLjYwOTQsMC41NDY5IC0yLjUxOTUsMC44OTg0IC0yLjMzOTgsMS4xNzE5IC0yLjE2NDEsMS41MjM0IC0xLjk3NjYsMS43OTY5IC0xLjcxMDksMi4wNzAzIC0xLjQzNzUsMi4yNjU2IC0xLjA4MiwyLjQyMTkgLTAuODA4NiwyLjUyMzUgLTAuMzYzMywyLjY5NTMgLTAuMDg1OSwxLjcxNDggMCwwLjA4NiAwLjE3NTcsMi43MDMxIDAuNTQzLDIuNjA5NCAwLjg5ODQsMi41MTk1IDEuMTcxOSwyLjMzOTggMS41Mjc0LDIuMTYwMiAxLjgwMDcsMS45ODA1IDIuMDcwNCwxLjcxMDkgMi4yNSwxLjQzNzUgMi40Mjk2LDEuMDgyIDIuNTIzNSwwLjgwODYgMi42OTUzLDAuMzYzMyAxLjcxNDgsMC4wODU5IiAvPjxwYXRoCiAgICAgICAgIGlkPSJwYXRoMTgiCiAgICAgICAgIHN0eWxlPSJmaWxsOiMwMDAwMDA7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOm5vbnplcm87c3Ryb2tlOm5vbmUiCiAgICAgICAgIGQ9Im0gMzEuMTQ0NSwzOS42ODM2IDAuMDg2LDAgMS43MDcsLTAuMTc5NyAxLjcxNDgsLTAuNTQzIDEuNTMxMywtMC44MTI1IDEuMjUzOSwtMS4xNjc5IDEuMDgyLC0xLjM1MTYgMC43MjI3LC0xLjYyMTEgMC4zNjMzLC0xLjcwNyAwLjA4NTksLTEuMDgyIDAsLTAuMDg2IC0wLjE4MzYsLTEuNzE0OCAtMC41MzksLTEuNzA3MSAtMC44MDg2LC0xLjUzMTIgLTEuMTcxOSwtMS4yNTc4IC0xLjM0NzcsLTEuMDc4MSAtMS42MjExLC0wLjcyMjcgLTEuNzEwOSwtMC4zNjMzIC0xLjA3ODEsLTAuMDg1OSAtMC4wODYsMCAtMS43MTQ4LDAuMTc5NyAtMS43MTA5LDAuNTQyOSAtMS41Mjc0LDAuODA0NyAtMS4yNTc4LDEuMTcxOSAtMS4wODIsMS4zNTE2IC0wLjcyMjcsMS42MTcxIC0wLjM1OTQsMS43MTQ5IC0wLjA4OTgsMS4wNzgxIDAsMC4wODYgMC4xNzk3LDEuNzEwOSAwLjU0MjksMS43MTQ4IDAuODA4NiwxLjUyNzQgMS4xNzE5LDEuMjU3OCAxLjM1MTYsMS4wODIgMS42MTcyLDAuNzIyNyAxLjcxMDksMC4zNTU0IDEuMDgyLDAuMDkzOCIgLz48L2c+PC9nPjwvc3ZnPg==" k="name"/>
           <prop v="0,0" k="offset"/>
           <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
           <prop v="MapUnit" k="offset_unit"/>
@@ -63,14 +63,12 @@
     </properties>
   </DiagramLayerSettings>
   <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
-    <activeChecks type="StringList">
-      <Option type="QString" value=""/>
-    </activeChecks>
+    <activeChecks/>
     <checkConfiguration/>
   </geometryOptions>
   <fieldConfiguration>
     <field name="fid">
-      <editWidget type="">
+      <editWidget type="TextEdit">
         <config>
           <Option/>
         </config>
@@ -134,6 +132,7 @@
       <column name="KATEGORI" width="-1" type="field" hidden="0"/>
       <column name="SRIKT" width="-1" type="field" hidden="0"/>
       <column width="-1" type="actions" hidden="1"/>
+      <column name="fid" width="-1" type="field" hidden="0"/>
     </columns>
   </attributetableconfig>
   <conditionalstyles>
@@ -167,11 +166,13 @@ def my_form_open(dialog, layer, feature):
     <field name="KATEGORI" editable="1"/>
     <field name="KKOD" editable="1"/>
     <field name="SRIKT" editable="1"/>
+    <field name="fid" editable="1"/>
   </editable>
   <labelOnTop>
     <field name="KATEGORI" labelOnTop="0"/>
     <field name="KKOD" labelOnTop="0"/>
     <field name="SRIKT" labelOnTop="0"/>
+    <field name="fid" labelOnTop="0"/>
   </labelOnTop>
   <widgets/>
   <previewExpression>KKOD</previewExpression>
